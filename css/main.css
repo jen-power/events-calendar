@@ -3,6 +3,14 @@ html {
 
 }
 
+
+td,
+th
+{
+  border: 1px solid #ccc;
+
+}
+
 td {
   height: 10em;
 }
