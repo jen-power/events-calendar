@@ -1,13 +1,10 @@
 html {
   font-family: Merriweather, serif;
-
 }
 
 td,
-th
-{
+th {
   border: 1px solid #ccc;
-
 }
 
 td {
